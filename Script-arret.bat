@@ -19,7 +19,7 @@ echo.
 rem Texte indiquant le temps restant avant la fin du compteur---
 
 if %count%==0 goto shut
-rem Fin de la boucle et passage à la boucle "shut" lorsque le compteur arrive a zéro---
+rem Fin de la boucle "dec" et passage à la boucle "shut" lorsque le compteur arrive a zéro---
 
 timeout /t 01>nul
 rem Pause de 1 seconde---
