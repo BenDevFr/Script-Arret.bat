@@ -7,3 +7,4 @@ L'execution de ce fichier ferme tout les programmes et eteint windows en approxi
 Toutes les commandes sont directement expliquer dans le fichier en commentaire a l'interieur de celui-ci.
 
 Bonne utilisation :)
+BenDevFr
