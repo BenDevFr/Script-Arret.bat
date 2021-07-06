@@ -4,6 +4,7 @@ Un simple petit script permettant d'arreter Windows complétement.
 Bonjour,
 
 De base Windows 10 ne s'eteint pas completement lorsque l'on lui demande de façon conventionnel.
+L'extinction fonctionne plus comme une mise en veille prolongée
 
 Cela peut être problematique lors de problemes avec un driver,un programme ect...
 
